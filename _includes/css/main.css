@@ -51,6 +51,7 @@ header::after{
   height: 100%;
   position: absolute;
   background-image: url("img/masthead_bg.png");
+  z-index: -1;
   bottom: 0;
   transform-origin: left bottom;
   transform: skewY(3deg);
