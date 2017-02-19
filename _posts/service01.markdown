@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2017-02-19
-img: services01.jpg
+img: service01.jpg
 alt: Service 01
 project-date: February 2017
 client: Client 01
