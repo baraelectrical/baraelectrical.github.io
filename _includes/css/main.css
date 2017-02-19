@@ -42,7 +42,7 @@ h2 {
 header {
     text-align: center;
     color: #fff;
-    background-image: url("img/masthead_bg.png")
+    background-image: url("img/masthead_bg.png");
 }
 
 header::after{
