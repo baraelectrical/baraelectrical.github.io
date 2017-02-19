@@ -43,45 +43,6 @@ h2 {
     margin-bottom: 25px;   
 }
 
-hr.star-light,
-hr.star-primary {
-    margin: 25px auto 30px;
-    padding: 0;
-    max-width: 250px;
-    border: 0;
-    border-top: solid 5px;
-    text-align: center;
-}
-
-hr.star-light:after,
-hr.star-primary:after {
-    content: "\f005";
-    display: inline-block;
-    position: relative;
-    top: -.8em;
-    padding: 0 .25em;
-    font-family: FontAwesome;
-    font-size: 2em;
-}
-
-hr.star-light {
-    border-color: #fff;
-}
-
-hr.star-light:after {
-    color: #fff;
-    background-color: #{{ site.color.primary }};
-}
-
-hr.star-primary {
-    border-color: #{{ site.color.secondary }};
-}
-
-hr.star-primary:after {
-    color: #{{ site.color.secondary }};
-    background-color: #fff;
-}
-
 .img-centered {
     margin: 0 auto;
 }
@@ -89,10 +50,6 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    /*
-        background: #{{ site.color.primary }};
-        background-color: #646464;
-    */
     background-image: url("img/masthead_bg.png")
 }
 
@@ -284,7 +241,9 @@ section.success {
     position: relative;
     margin-bottom: 0;
     padding-bottom: .5em;
-    border-bottom: 1px solid #eee;
+    /*
+        border-bottom: 1px solid #eee;
+    */
 }
 
 .floating-label-form-group input,
