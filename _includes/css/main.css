@@ -119,7 +119,7 @@ header .intro-text .skills {
   height: 100%;
   position: absolute;
   background: inherit;
-  z-index: -1;
+  z-index: 3;
   bottom: 0;
   transform-origin: left bottom;
   transform: skewY(20deg);
@@ -139,7 +139,7 @@ header .intro-text .skills {
   height: 100%;
   position: absolute;
   background: inherit;
-  z-index: -1;
+  z-index: 3;
   bottom: 0;
   transform-origin: left bottom;
   transform: skewY(20deg);
@@ -161,7 +161,7 @@ header .intro-text .skills {
   height: 100%;
   position: absolute;
   background: inherit;
-  z-index: -1;
+  z-index: 3;
   bottom: 0;
   transform-origin: left bottom;
   transform: skewY(20deg);
