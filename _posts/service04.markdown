@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2017-02-19
+img: services04.jpg
+alt: Service 04
+project-date: February 2017
+client: Client 04
+category: Electrical Service
+description: Note that these should only be placeholder images.  These have been captured from Google Images only to depict example and need to be replaced before go-live.
+---
