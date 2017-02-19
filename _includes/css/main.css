@@ -84,8 +84,9 @@ header {
     color: #fff;
     /*
         background: #{{ site.color.primary }};
+        background-color: #646464;
     */
-    background-color: #646464;
+    background-image: url("img/masthead_bg.png")
 }
 
 header .container {
