@@ -43,6 +43,7 @@ header {
     text-align: center;
     color: #fff;
     background-image: url("img/masthead_bg.png")
+        background: linear-gradient(to right, rgba(241,231,103,1) 0%, rgba(254,182,69,1) 100%);
 }
 
 .header::after{
